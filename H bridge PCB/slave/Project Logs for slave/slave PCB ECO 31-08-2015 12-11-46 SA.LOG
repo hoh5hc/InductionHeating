@@ -1,0 +1,135 @@
+Added Component: Designator=*1(diode mbrs34ot3)
+Added Component: Designator=*2(ir2101)
+Added Component: Designator=*3(Domino_2)
+Added Component: Designator=*4(diode mbrs34ot3)
+Added Component: Designator=*5(Domino_2)
+Added Component: Designator=*6(Domino_2)
+Added Component: Designator=*7(ir2101)
+Added Component: Designator=C1(C0805)
+Added Component: Designator=C2(CAPR5-4X5)
+Added Component: Designator=C3(C0805)
+Added Component: Designator=C4(CAPR5-4X5)
+Added Component: Designator=D1(DO-35)
+Added Component: Designator=D2(DO-35)
+Added Component: Designator=D3(DO-35)
+Added Component: Designator=D4(DO-35)
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=q1(TO220)
+Added Component: Designator=q2(TO220)
+Added Component: Designator=q3(TO220)
+Added Component: Designator=q4(TO220)
+Added Component: Designator=RT1(6-0805_N)
+Added Component: Designator=RT2(6-0805_N)
+Added Component: Designator=RT3(6-0805_N)
+Added Component: Designator=RT4(6-0805_N)
+Added Component: Designator=RT5(6-0805_N)
+Added Component: Designator=RT6(6-0805_N)
+Added Component: Designator=RT7(6-0805_N)
+Added Component: Designator=RT8(6-0805_N)
+Added Pin To Net: NetName=12V Pin=*1-1
+Added Pin To Net: NetName=Net*1_2 Pin=*1-2
+Added Pin To Net: NetName=GND Pin=*2-3
+Added Pin To Net: NetName=LO1 Pin=*2-4
+Added Pin To Net: NetName=12V Pin=*2-5
+Added Pin To Net: NetName=VS1 Pin=*2-6
+Added Pin To Net: NetName=HO1 Pin=*2-7
+Added Pin To Net: NetName=Net*1_2 Pin=*2-8
+Added Pin To Net: NetName=12V Pin=*3-1
+Added Pin To Net: NetName=GND Pin=*3-2
+Added Pin To Net: NetName=12V Pin=*4-1
+Added Pin To Net: NetName=24V Pin=*5-1
+Added Pin To Net: NetName=GND Pin=*5-2
+Added Pin To Net: NetName=VS1 Pin=*6-1
+Added Pin To Net: NetName=VS2 Pin=*6-2
+Added Pin To Net: NetName=GND Pin=*7-3
+Added Pin To Net: NetName=LO2 Pin=*7-4
+Added Pin To Net: NetName=12V Pin=*7-5
+Added Pin To Net: NetName=VS2 Pin=*7-6
+Added Pin To Net: NetName=HO2 Pin=*7-7
+Added Pin To Net: NetName=Net*1_2 Pin=C1-1
+Added Pin To Net: NetName=VS1 Pin=C1-2
+Added Pin To Net: NetName=Net*1_2 Pin=C2-1
+Added Pin To Net: NetName=VS1 Pin=C2-2
+Added Pin To Net: NetName=VS2 Pin=C3-2
+Added Pin To Net: NetName=VS2 Pin=C4-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=HO1 Pin=D1-2
+Added Pin To Net: NetName=Netd2_1 Pin=D2-1
+Added Pin To Net: NetName=LO1 Pin=D2-2
+Added Pin To Net: NetName=Netd3_1 Pin=D3-1
+Added Pin To Net: NetName=HO2 Pin=D3-2
+Added Pin To Net: NetName=Netd4_1 Pin=D4-1
+Added Pin To Net: NetName=LO2 Pin=D4-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=NetD1_1 Pin=q1-1
+Added Pin To Net: NetName=24V Pin=q1-2
+Added Pin To Net: NetName=VS1 Pin=q1-3
+Added Pin To Net: NetName=Netd2_1 Pin=q2-1
+Added Pin To Net: NetName=VS1 Pin=q2-2
+Added Pin To Net: NetName=GND Pin=q2-3
+Added Pin To Net: NetName=Netd3_1 Pin=q3-1
+Added Pin To Net: NetName=24V Pin=q3-2
+Added Pin To Net: NetName=VS2 Pin=q3-3
+Added Pin To Net: NetName=Netd4_1 Pin=q4-1
+Added Pin To Net: NetName=VS2 Pin=q4-2
+Added Pin To Net: NetName=GND Pin=q4-3
+Added Pin To Net: NetName=NetD1_1 Pin=RT1-1
+Added Pin To Net: NetName=HO1 Pin=RT1-2
+Added Pin To Net: NetName=VS1 Pin=RT2-1
+Added Pin To Net: NetName=NetD1_1 Pin=RT2-2
+Added Pin To Net: NetName=Netd2_1 Pin=RT3-1
+Added Pin To Net: NetName=LO1 Pin=RT3-2
+Added Pin To Net: NetName=GND Pin=RT4-1
+Added Pin To Net: NetName=Netd2_1 Pin=RT4-2
+Added Pin To Net: NetName=Netd3_1 Pin=RT5-1
+Added Pin To Net: NetName=HO2 Pin=RT5-2
+Added Pin To Net: NetName=VS2 Pin=RT6-1
+Added Pin To Net: NetName=Netd3_1 Pin=RT6-2
+Added Pin To Net: NetName=Netd4_1 Pin=RT7-1
+Added Pin To Net: NetName=LO2 Pin=RT7-2
+Added Pin To Net: NetName=GND Pin=RT8-1
+Added Pin To Net: NetName=Netd4_1 Pin=RT8-2
+Added Pin To Net: NetName=IN1 Pin=*2-1
+Added Pin To Net: NetName=IN1 Pin=P1-3
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=*7-1
+Added Pin To Net: NetName=IN2 Pin=P1-4
+Added Net: Name=IN2
+Added Pin To Net: NetName=Net*4_2 Pin=*4-2
+Added Pin To Net: NetName=Net*4_2 Pin=*7-8
+Added Pin To Net: NetName=Net*4_2 Pin=C3-1
+Added Pin To Net: NetName=Net*4_2 Pin=C4-1
+Added Net: Name=Net*4_2
+Added Pin To Net: NetName=SD Pin=*2-2
+Added Pin To Net: NetName=SD Pin=*7-2
+Added Pin To Net: NetName=SD Pin=P1-2
+Added Net: Name=SD
+Added Member To Class: ClassName=Sheet1 Member=Component *1 mbrs340t3
+Added Member To Class: ClassName=Sheet1 Member=Component *2 ir2184dip
+Added Member To Class: ClassName=Sheet1 Member=Component *3 domino2
+Added Member To Class: ClassName=Sheet1 Member=Component *4 mbrs340t3
+Added Member To Class: ClassName=Sheet1 Member=Component *5 domino2
+Added Member To Class: ClassName=Sheet1 Member=Component *6 domino2
+Added Member To Class: ClassName=Sheet1 Member=Component *7 ir2184dip
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap Pol3
+Added Member To Class: ClassName=Sheet1 Member=Component C2 Cap2
+Added Member To Class: ClassName=Sheet1 Member=Component C3 Cap Pol3
+Added Member To Class: ClassName=Sheet1 Member=Component C4 Cap2
+Added Member To Class: ClassName=Sheet1 Member=Component D1 Diode 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component D2 Diode 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component D3 Diode 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component D4 Diode 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component q1 IRF540N
+Added Member To Class: ClassName=Sheet1 Member=Component q2 IRF540N
+Added Member To Class: ClassName=Sheet1 Member=Component q3 IRF540N
+Added Member To Class: ClassName=Sheet1 Member=Component q4 IRF540N
+Added Member To Class: ClassName=Sheet1 Member=Component RT1 Res Thermal
+Added Member To Class: ClassName=Sheet1 Member=Component RT2 Res Thermal
+Added Member To Class: ClassName=Sheet1 Member=Component RT3 Res Thermal
+Added Member To Class: ClassName=Sheet1 Member=Component RT4 Res Thermal
+Added Member To Class: ClassName=Sheet1 Member=Component RT5 Res Thermal
+Added Member To Class: ClassName=Sheet1 Member=Component RT6 Res Thermal
+Added Member To Class: ClassName=Sheet1 Member=Component RT7 Res Thermal
+Added Member To Class: ClassName=Sheet1 Member=Component RT8 Res Thermal
+Added Room: Name=Sheet1
